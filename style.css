@@ -6,8 +6,13 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 100vw;
+
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-container {
+  width: 100px;
+  height: 100px;
 }
 
 .share-button {
