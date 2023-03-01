@@ -30,6 +30,12 @@ body {
   background-color: rgb(240, 240, 240);
 }
 
+.share-button svg {
+  margin-top: 9px;
+  margin-left: 10px;
+  color: rgb(0, 0, 0);
+}
+
 header {
   width: 95%;
   max-width: 788px;
@@ -64,6 +70,11 @@ header {
   height: 40px;
   border-radius: 20px;
   background-color: rgb(52, 52, 52);
+}
+
+.tile-share-button svg {
+  margin-left: 12px;
+  margin-top: 10px;
 }
 
 a {
